@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section {
+  text-align: center;
+  padding: 30px;
+  padding-bottom: 30px;
+}
+
+.paragraphy {
+  margin: 10px auto;
+  width: 980px;
+  text-align: justify;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.top {
+  background-color: #afddfb;
+}
+
+.top img {
+  width: 150px;
+}
+
+.paragraphy-top {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.link-top {
+  font-size: 18px;
+  color: #1d1d1d;
+  border-bottom: 2px solid #1d1d1d;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.banner {
+  padding-top: 0;
+  margin-top: 50px;
+}
+
+span {
+  font-weight: bold;
+}
+
+h1 {
+  color: #1d1d1d;
+  margin-bottom: 5px;
+}
+
+h2 {
+  margin-top: 0;
+  font-weight: normal;
+  color: #1c81c0;
+}
+
+.image {
+  width: 450px;
+}
+
+.blue-text {
+  color: #1d80c1;
+}
+
+.services, .contact {
+  background-color: #1d80c1;
+}
+
+h3 {
+  color: #ffffff;
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.paragraphy-services {
+  width: 700px;
+  text-align: center;
+  font-size: 22px;
+  line-height: 42px;
+  color: #ffffff;
+}
+
+.yellow-text {
+  color: #fff81b;
+}
+
+.list-services {
+  width: 135px;
+  margin: 40px auto 40px;
+}
+
+.item-list-services {
+  color: #fff;
+  text-align: left;
+  font-size: 22px;
+  line-height: 42px;
+}
+
+.paragraphy-contact {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 15px;
+  color: #fff;
+  background-color: #1d1d1d; 
+}
+
+.list-contact {
+  margin: 40px auto 40px;
+  width: 210px;
+  list-style: none;
+  text-align: center;
+}
+
+.item-list-contact {
+  font-size: 18px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.link-contact {
+  background-color: #ffffff;
+  color: #1d80c1;
+  padding: 2px 5px;
+  border-radius: 5px;
+}
